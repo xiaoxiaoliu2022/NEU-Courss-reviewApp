@@ -1,0 +1,118 @@
+
+
+.page-section {
+  padding: 100px 0;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
+.reviewCard {
+  
+  padding-bottom: 20px;
+  margin-bottom: 80px;
+  transition: 0.3s;
+}
+
+.item .reviewCard:hover {
+  box-shadow: 0px 0px 15px 0px #777;
+}
+
+
+.item .reviewCard .review-text .rating i {
+  text-align: center;
+  color: #fbb710;
+}
+
+
+.review-page button {
+  display: inline-block;
+  text-align: center;
+  font-size: 15px;
+  color: #131313;
+  border-radius: 50px;
+  font-weight: 500;
+  border: none;
+  background: #ffb320;
+  cursor: pointer;
+  padding: 10px 30px;
+  min-width: 163px;
+}
+
+.review-page button:focus {
+  outline: 0;
+}
+
+.review-page button:hover {
+  opacity: 0.8;
+}
+
+.review-section {
+  padding: 80px 0 40px;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.review-section .section-title div {
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
+  color: #fff;
+  padding: 6px 25px;
+  background: #ff205f;
+}
+
+.review-section .section-title h2 {
+  margin: 15px auto 80px;
+}
+
+.reviewCard .review-cover {
+  background-size: cover;
+}
+
+
+.sm-item .reviewCard:hover {
+  box-shadow: 0px 0px 10px 0px #111;
+}
+
+.reviewCard .review-text {
+  color:#111;
+  padding: 0 10px;
+  text-align: center;
+}
+
+
+
+
+.reviewCard .review-cover {
+  position: relative;
+  margin-bottom: 30px;
+  height: 345px;
+}
+
+
+
+.reviewCard .review-text h5 {
+  margin-bottom: 20px;
+}
+
+.reviewCard .review-text p {
+  margin-bottom: 0;
+  padding: 0 10px;
+  font-size:x-large ;
+}
+
+.reviewCard .rating {
+  margin-bottom: 20px;
+  text-align: center;
+}
+

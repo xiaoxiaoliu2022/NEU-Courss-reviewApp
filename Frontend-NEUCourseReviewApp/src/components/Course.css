@@ -1,0 +1,70 @@
+.div {
+    background-color: #2B3A55;
+}
+
+div.reviewsText {
+    width: 100%
+}
+
+div.poster {
+    margin: 10px;
+}
+
+p.review {
+    white-space: pre-line;
+}
+
+.bigPicture {
+    float: right;
+}
+.courseInfo{
+    background-color:#CFF5E7;
+}
+.addReview{
+    color:#6D67E4;
+    font-weight: 700;
+}
+.edit{
+    color:#6D67E4;
+    font-weight: 700;
+}
+.delete{
+    color:#6D67E4;
+    font-weight: 700;
+}
+.reviews{
+    color:#6D67E4;
+    padding-top: 5rem;
+}
+.rating{
+    color:#6D67E4;
+    font-weight: 700;
+}
+.up{
+    fill:#6D67E4;
+    align-items: flex-end;
+}
+.ratingtext{
+    color:#6D67E4;
+    font-weight: 700;
+    text-align: left;
+}
+.heart{
+    fill:#6D67E4;
+    width: 16.5em;
+    height: 1.5em;
+    position: absolute;
+    
+}
+.favoritestext{
+    color:#6D67E4;
+    font-weight: 700;
+    text-align:right;
+}
+.reviewContent{
+    background-color: #CFF5E7;
+}
+/* .card{
+    position: relative;
+    
+} */

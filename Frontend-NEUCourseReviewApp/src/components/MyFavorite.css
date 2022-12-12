@@ -1,0 +1,138 @@
+.favoritesCard {
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 3px solid green;
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+}
+
+.favoritesPoster {
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots');
+
+
+.favoritesNumber {
+    font-family: 'Zen Dots', cursive;
+    font-style: italic;
+    justify-content: center;
+    color: blue;
+    background-color: gold;
+    margin: 10px;
+    border-radius: 100%;
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    top: -30px;
+    left: -30px;
+    text-align: center;
+    font-size: 2.6rem;
+
+}
+
+.spanStyle1 {
+    transform: rotate(40deg);
+    display: inline-block;
+}
+
+.spanStyle2 {
+    transform: rotate(20deg);
+    display: inline-block;
+}
+
+
+
+.favoritesTitle {
+    text-align: center;
+    font-style: italic;
+    width: 100%;
+    font-size: 2em;
+    color: blueviolet;
+    vertical-align: middle;
+    display: inline;
+    vertical-align: middle;
+    max-height: 200px;
+    overflow: hidden;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+
+.favoritesPanel {
+    width: 33%;
+    min-height: 100vh;
+    padding: 1rem;
+    font-size: 2em;
+}
+
+.FavoriteClasscontainer {
+    width: 80%;
+    float: left;
+    margin-left: 50px;
+}
+
+
+.backgroundPoster {
+
+    float: left;
+    margin-top: 1px;
+    margin-right: 20px;
+}
+
+.favPoster {
+    border-radius: 50%;
+    margin-top: 1px;
+    margin-right: 20px;
+}
+
+.favoritesContainer {
+    display: flex;
+}
+
+.mindBlowingTitle {
+    text-align: center;
+    color: blueviolet;
+    font-style: italic;
+}
+
+.fire {
+    color: orangered;
+    position: absolute;
+    top: -1.3em;
+    left: -1em;
+
+}
+
+.unhappy {
+    color: orangered;
+    position: absolute;
+    top: -2.1em;
+    left: -1em;
+
+}
+
+.ranking{
+
+    font-family: 'Zen Dots', cursive;
+    font-style: italic;
+    justify-content: center;
+    color: blue;
+    background-color: gold;
+    margin: 10px;
+    border-radius: 100%;
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    top: -30px;
+    right: -30px;
+    text-align: center;
+    font-size: 2.6rem;
+
+}

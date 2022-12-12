@@ -1,0 +1,133 @@
+.div {
+    background-color: #2B3A55;
+}
+
+.dangerBtn{
+    margin-right: 0px;
+}
+
+.movieRow {
+    margin-top: 15px;
+}
+
+.card {
+    margin-top: 15px;
+}
+
+.moviesListCard {
+    width: 18rem;
+
+}
+
+.div.poster {
+    margin: 10px;
+}
+
+.smallPoster {
+    user-select: none;
+}
+
+.heart {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 32.5em;
+    height: 4em;
+    /* filter: drop-shadow(2px 4px 6px black); */
+}
+
+/* .heartFill {
+    fill: #6D67E4;
+}
+
+.heartEmpty {
+    fill:black;
+} */
+
+/* .heartFill {
+    fill: yellow;
+}
+
+.heartEmpty {
+    fill: white;
+} */
+
+.coursesListCard {
+    background-color: #CFF5E7;
+}
+
+.wrapper {
+
+    position: absolute;
+    width: 20rem;
+    transform: translate(-50%, -50%);
+    top: 2%;
+    left: 45%;
+    padding-bottom: 0rem;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.Card.Title {
+    margin-top: 200em;
+}
+
+
+span.num {
+    color: #6D67E4;
+    ;
+    display: gird;
+    place-items: center;
+    text-align: left;
+    font-weight: 600;
+    font-size: 1.5em;
+}
+
+span.text {
+    color: #6D67E4;
+    ;
+    font-size: 1em;
+    text-align: right;
+    pad: 0.7em 0;
+    font-weight: 400;
+    line-height: 0;
+}
+
+.container {
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    border-radius: 0.5em;
+}
+
+.reviewLink {
+    color: #6D67E4;
+}
+
+.rating {
+    color: orange;
+}
+
+.button {
+    size: 15em;
+    color: #59C1BD;
+}
+
+.star {
+    position: absolute;
+    top: 0;
+    left: -10em;
+    width: 28.5em;
+    height: 2em;
+  
+}
+
+.starFill {
+    fill:  #6D67E4;
+}
+
+.starEmpty {
+    fill: #6D67E4;
+}
